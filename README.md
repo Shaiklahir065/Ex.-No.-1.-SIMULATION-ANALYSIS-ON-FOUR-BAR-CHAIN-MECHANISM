@@ -45,9 +45,9 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-(https://github.com/user-attachments/assets/040569cf-1e1a-4872-af73-2b7142443eb6)
+![WhatsApp Image 2024-10-26 at 14 08 09_26ddd0e5](https://github.com/user-attachments/assets/b3ed8ad9-1fed-4517-8d27-346cf8375a4a)
 
-![WhatsApp Image 2024-10-26 at 14 08 09_26ddd0e5](https://github.com/user-attachments/assets/9381765d-5eb6-4ad5-abaa-b3986fbe8c53)
+![WhatsApp Image 2024-10-26 at 14 07 53_ed30c820](https://github.com/user-attachments/assets/9b00d828-2acb-4094-b665-a218009368c0)
 
 
 ## Output:
