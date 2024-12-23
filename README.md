@@ -45,12 +45,11 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![WhatsApp Image 2024-10-26 at 14 08 09_26ddd0e5](https://github.com/user-attachments/assets/b3ed8ad9-1fed-4517-8d27-346cf8375a4a)
-
-![WhatsApp Image 2024-10-26 at 14 07 53_ed30c820](https://github.com/user-attachments/assets/9b00d828-2acb-4094-b665-a218009368c0)
-
 
 ## Output:
+![WhatsApp Image 2024-12-23 at 10 49 01_c4fc0211](https://github.com/user-attachments/assets/33848bcc-bb4c-4bf3-89b6-075ea6d2f555)
+![WhatsApp Image 2024-12-23 at 10 49 17_b4c5ca09](https://github.com/user-attachments/assets/d7c600d5-a99a-47b3-a406-2d11e99b4dff)
+![WhatsApp Image 2024-12-23 at 10 49 40_8be03dcb](https://github.com/user-attachments/assets/644afba2-bb14-484f-8cac-68b51948bc18)
 
 
 ### Name: Shaik Lahir
